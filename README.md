@@ -16,16 +16,6 @@ Aqui no GitHub, você encontrará projetos voltados para:
 
 ---
 
-## 📚 Experiência
-Ao longo da minha carreira, tenho trabalhado em projetos/produtos que combinam **ciência de dados, engenharia de software e gestão de produtos**, criando soluções ponta a ponta que abrangem desde a ideação até a implantação em produção. Meus principais interesses incluem:
-
-- **Ciclo completo de desenvolvimento de software em ML:** integração de dados, desenvolvimento de APIs, monitoramento de métricas e melhoria contínua.
-- **Modelagem Estatística e Econométrica:** regressões, séries temporais e análises causais.
-- **Estratégias baseadas em dados:** priorização de recursos, definição de métricas e tomada de decisão orientada por dados.
-- **Product Analytics:** medição de engajamento, retenção e sucesso do produto.
-
----
-
 ## 📫 Entre em contato:
 [LinkedIn](https://www.linkedin.com/in/diego-vergueiro-29646374/) 
 
