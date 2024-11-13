@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Diego Vergueiro!
 
-Sou economista com uma forte paixão por dados, modelos estatísticos e previsões. Durante minha formação em **Economia**, desenvolvi uma especialização em **Data Science**, que me permitiu aliar teorias econômicas a técnicas modernas de análise de dados.
+Sou economista com uma forte paixão por dados, modelos estatísticos e previsões. Durante minha formação em **Economia**, desenvolvi uma especialização em **Data Science**, que me permitiu aliar teorias econômicas a técnicas de análise de dados.
 
 Aqui no GitHub, você encontrará projetos voltados para:
 
