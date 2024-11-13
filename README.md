@@ -27,5 +27,5 @@ Ao longo da minha carreira, tenho trabalhado em projetos/produtos que combinam *
 ---
 
 ## 📫 Entre em contato:
-[LinkedIn]([https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/diego-vergueiro-29646374/)) 
+[LinkedIn](https://www.linkedin.com/in/diego-vergueiro-29646374/) 
 
