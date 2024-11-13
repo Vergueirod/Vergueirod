@@ -12,7 +12,7 @@ Aqui no GitHub, você encontrará projetos voltados para:
 - 🤖 **Ciclo Completo de Desenvolvimento de Software em ML**:
   - Projetos que cobrem todo o ciclo de desenvolvimento, desde o backend e frontend até APIs de produção.
   - Modelos monitorados com as **4 Sinais dourados/4 Métricas de ouro** (Latência, Taxa de Erros, Saturação e Throughput).
-  - Infraestrutura robusta para colocar modelos de aprendizado de máquina em produção e garantir alta disponibilidade.
+  - Infraestrutura para colocar modelos de aprendizado de máquina em produção.
 
 ## 📫 Entre em contato:
 [LinkedIn](https://www.linkedin.com/in/diego-vergueiro-29646374/) 
