@@ -14,8 +14,6 @@ Aqui no GitHub, você encontrará projetos voltados para:
   - Modelos monitorados com as **4 Sinais dourados/4 Métricas de ouro** (Latência, Taxa de Erros, Saturação e Throughput).
   - Infraestrutura robusta para colocar modelos de aprendizado de máquina em produção e garantir alta disponibilidade.
 
----
-
 ## 📫 Entre em contato:
 [LinkedIn](https://www.linkedin.com/in/diego-vergueiro-29646374/) 
 
