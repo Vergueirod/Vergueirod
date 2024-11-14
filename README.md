@@ -1,19 +1,20 @@
-# 👋 Olá, eu sou Diego Vergueiro!
+# 👋 Hello, I'm Diego Vergueiro!
 
-Sou economista com uma forte paixão por dados, modelos estatísticos e previsões. Durante minha formação em **Economia**, desenvolvi uma especialização em **Data Science**, que me permitiu aliar teorias econômicas a técnicas de análise de dados.
+I am an economist with a strong passion for data, statistical models, and forecasting. During my Economics studies, I specialized in Data Science, which allowed me to combine economic theories with data analysis techniques.
 
-Aqui no GitHub, você encontrará projetos voltados para:
+Here on GitHub, you will find projects focused on:
 
-- 📊 **Product Data Science**: integração de análises de dados ao ciclo de vida de produtos, desde a concepção até a melhoria contínua, com foco na experiência do usuário e resultados de negócio.
-- 🤖 **Modelagem Estatística e Machine Learning**: regressões, séries temporais e algoritmos preditivos.
-- 🔍 **Causalidade e Econometria**: técnicas para compreender relações de causa e efeito em dados complexos.
-- 🛠️ **ETL e Engenharia de Dados**: pipelines para coleta, transformação e carregamento de dados.
-- 🚀 **CRISP-DM e Projetos de Data Science**: abordagens estruturadas para extrair insights acionáveis em etapas bem definidas, desde o entendimento do problema até a implantação de soluções.
-- 🤖 **Ciclo Completo de Desenvolvimento de Software em ML**:
-  - Projetos que cobrem todo o ciclo de desenvolvimento, desde o backend e frontend até APIs de produção.
-  - Modelos monitorados com as **4 Sinais dourados/4 Métricas de ouro** (Latência, Taxa de Erros, Saturação e Throughput).
-  - Infraestrutura para colocar modelos de aprendizado de máquina em produção.
+📊 Product Data Science: integrating data analysis into the product lifecycle, from ideation to continuous improvement, with a focus on user experience and business outcomes.
+🤖 Statistical Modeling and Machine Learning: regressions, time series, and predictive algorithms.
+🔍 Causality and Econometrics: techniques to understand cause-and-effect relationships in complex data.
+🛠️ ETL and Data Engineering: pipelines for data collection, transformation, and loading.
+🚀 CRISP-DM and Data Science Projects: structured approaches to extract actionable insights through well-defined stages, from problem understanding to solution deployment.
+🤖 Full-cycle ML Software Development:
 
-## 📫 Entre em contato:
+Projects covering the entire development cycle, from backend and frontend to production APIs.
+Models monitored using the Four Golden Signals/4 Key Metrics (Latency, Error Rate, Saturation, and Throughput).
+Infrastructure for deploying machine learning models into production.
+
+## 📫 Get in touch:
 [LinkedIn](https://www.linkedin.com/in/diego-vergueiro-29646374/) 
 
