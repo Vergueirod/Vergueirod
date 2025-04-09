@@ -26,7 +26,7 @@
       "company": "DNC Group",
       "site": "https://ed.escoladnc.com/formacoes-g",
       "current_role": null,
-      "last_role": "Sofware Engineer / Product Manager",
+      "last_role": "Product Manager",
       "work_years": {
         "started_at": 2022,
         "finished_at": 2022
