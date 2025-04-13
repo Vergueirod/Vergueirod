@@ -28,7 +28,7 @@
       "current_role": null,
       "last_role": "Product Manager",
       "work_years": {
-        "started_at": 2022,
+        "started_at": 2020,
         "finished_at": 2022
       }
     },
