@@ -15,7 +15,7 @@
     {
       "company": "Estoca",
       "site": "https://estoca.com.br",
-      "current_role": "Lead Software Engineer / Product Manager",
+      "current_role": "Lead Engineer / Product Manager",
       "last_role": "Software Engineer",
       "work_years": {
         "started_at": 2022,
