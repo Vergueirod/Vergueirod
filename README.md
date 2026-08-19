@@ -1,4 +1,4 @@
-Engineer focused on building and operating production systems under real-world constraints.
+Focused on building and operating production systems under real-world constraints.
 
 I work primarily with backend and distributed systems, with an emphasis on reliability, scalability, observability, and cost-efficient architectures.
 
